@@ -5,7 +5,7 @@ A Kerbalism configuration that disables everything Kerablism does, except for th
 
 # Changelog
 
-## Version 1.0:
+## Version 1.0
 
 * First release.
 
