@@ -1,0 +1,13 @@
+Flags/*
+System/ScienceRework/*
+System/ScienceRework/ModSupport/*
+System/ScienceRework/Tweakables/*
+System/ScienceRework/Groups/*
+System/Deploy.cfg
+System/Signal.cfg
+System/Planner.cfg
+System/Misc.cfg
+Support/*
+Support/USI/*
+Parts/ShortAntenna/*
+Localization/*
