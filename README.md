@@ -4,7 +4,7 @@ A Kerbalism configuration that disables everything Kerablism does, except for th
 
 ## Warning
 
-This configuration pack is a bit outdated and isn't actively maintained. It mostly works, but there are many quirks and balance issues. We don't really provide any support for it, so be aware that you're on your own.
+**This configuration pack isn't maintained and doesn't work with recent (newer than 3.14) Kerbalism versions.**
 
 ## Compatibility
 
