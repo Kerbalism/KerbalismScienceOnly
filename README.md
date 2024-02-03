@@ -8,6 +8,6 @@ A Kerbalism configuration that disables everything Kerablism does, except for th
 
 ## Compatibility
 
-With this configuration pack, you shoud be able to use Kerbalism with any other life support mod. It won't interfere with TAC-LS, and it will not kill Kerbals when they run out of resources.
-
-The only thing that will not work with Kerbalism Science is most science related mods.
+This configuration pack allow you to only get the science related features of Kerbalism, all other mechanics (life support, reliability, resource extraction and converters...) will be disabled.
+However, there will still be various compatibility issues due to Kerbalism still handling background production/consumption of resources (notably EC), which might conflict with other plugins also attempting to handle them in their own way as well.
+A notable example is TAC-LS, for which background life support processing will still be disabled even with this config.
